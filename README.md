@@ -11,7 +11,7 @@ High Score Tracking: Compete with yourself and others to see how many fruits you
 Vibrant Graphics: Enjoy colorful and visually appealing fruit designs.
 
 # How to Play
-Start the Game: Tap the start button to begin a new game session.
+Start the Game: Tap the play button to begin a new game session.
 
 Tap the Fruits: As fruits randomly appear on the screen, tap them as quickly as you can before they disappear.
 
