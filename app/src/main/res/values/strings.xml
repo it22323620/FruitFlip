@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fruit Flip</string>
+    <string name="score_0">Score : 0</string>
+    <string name="time_10">Time : 10</string>
+    <string name="fruit">Fruit</string>
+    <string name="yes">YES</string>
+    <string name="game_name">Fruit Flip</string>
+    <string name="no">NO</string>
+    <string name="time">Time : "</string>
+    <string name="time_up">Time\'s up!!!</string>
+    <string name="saved_high_score_key" />
+    <string name="fruit_flip">Fruit Flip</string>
+</resources>
